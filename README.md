@@ -9,15 +9,26 @@ When using the data, please cite our paper: deHaan, E., Lawrence, A. and Litjens
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3398287
 
 Files SP500: 
+
 "TSSVI SP500 2010-2022.dta" contains the daily TS-SVI for the SP500 for the years 2010-2022.
+
 "TSSVI FILE SP500 MONTH (fixed scalar)" contains the monthly Google Ticker Search from 2004 to 2022 for the SP500 to perform fixed scaling per prior research.
 
+
 Files Russel 3000:
+
 "TSSVI_RUSSEL3000_2022.dta" contains the daily TS-SVI for the for the year 2022
+
 "TSSVI_RUSSEL3000_2021.dta" contains the daily TS-SVI for the for the year 2021
+
 "TSSVI_RUSSEL3000_2020.dta" contains the daily TS-SVI for the for the year 2020
+
 "TSSVI_RUSSEL3000_2019.dta" contains the daily TS-SVI for the for the year 2019
+
 "TSSVI_RUSSEL3000_2018.dta" contains the daily TS-SVI for the for the year 2018
+
 "TSSVI_RUSSEL3000_2017.dta" contains the daily TS-SVI for the for the year 2017
+
 "TSSVI_RUSSEL3000_2016.dta" contains the daily TS-SVI for the for the year 2016
+
 "TSSVI FILE RUSSEL MONTH (fixed scaler)" contains the monthly Google Ticker Search from 2004 to 2022 to perform fixed scaling per prior research. 
